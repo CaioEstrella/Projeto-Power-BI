@@ -1,3 +1,3 @@
 # Projeto-Power-BI
 
-Dashboard desenvolvido em Power BI - Inclui as tabelas com os dados utilizados no projeto.
+Alguns projetos desenvolvidos em Power BI. Dashboards interativos com referencia para a fonte de dados utilizada.
